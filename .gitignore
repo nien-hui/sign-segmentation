@@ -3,6 +3,9 @@
 *.jpg
 *.pkl
 *.model
+*.zip
+data/features/
+models/
 run/
 __pycache__/
 *.py[cod]
